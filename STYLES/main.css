@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+
+}
+
+
+h1 {
+  color: rgb(50, 178, 220);
+  margin: 2rem;
+}
+.resources >a {
+  display: inline-block;
+  margin: 1rem;
+  padding: 1rem;
+  color: rgb(117, 110, 194);
+  font-size: 1.6rem;
+}
+
+h2 {
+  color: rgb(50, 178, 220);
+  
+  margin: 2rem;
+}
+
+p {
+  padding: 2rem;
+  color: rgb(151, 150, 150);
+}
+
+button {
+  background-color: rgb(56, 223, 73);
+  color: white;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+
+.img-main {
+  width: 100%;
+}
+img 
+{
+  width: 100%;
+}
+
+button a {
+  color: rgb(117, 110, 194);
+  text-decoration: none; 
+}
